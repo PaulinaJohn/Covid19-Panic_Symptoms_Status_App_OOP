@@ -1,5 +1,6 @@
 I worked on this mini-project with a co-fellow on the Women Techsters Fellowship.
-The program displays and updates vitals; such as body temperature, pulse rate, and oxygen level of individuals who have been infected with Covid19, for monitoring purposes. It also helps to identify panic symptoms that may indicate that an unconfirmed person might be carrying the virus.
+
+Using object-oriented programming concepts, we wrote a program that displays and updates vitals; such as body temperature, pulse rate, and oxygen level of individuals who have been infected with Covid19, for monitoring purposes. It also helps to identify panic symptoms that may indicate that an unconfirmed person may be carrying the virus.
 
 The program is built to be used by physicians and other medical practitioners
 
